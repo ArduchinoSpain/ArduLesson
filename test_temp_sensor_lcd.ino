@@ -1,5 +1,3 @@
-#define TEMPIN 1
-
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
