@@ -1,6 +1,6 @@
 # ArduLesson
 
-Repositorio perteneciente a la organización **ArduchinoSpain**, [Grupo Publico Telegram](Grupo Arduino https://telegram.me/joinchat/CmQsYD9kPvxWh4b1PD93ZQ)
+Repositorio perteneciente a la organización **ArduchinoSpain**, [GrupoTelegram](Grupo Arduino https://telegram.me/joinchat/CmQsYD9kPvxWh4b1PD93ZQ)
 
 Destinado a material didactico de todo tipo, Sketch ilustrativos, esquemáticos en [fritzing](http://fritzing.org/home/), documentación. 
 
