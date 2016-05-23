@@ -20,7 +20,7 @@ Happy Coding =)
 
 [65 Latigillos](http://www.ebay.es/itm/65Pcs-Male-to-Male-Solderless-Breadboard-Jumper-Cable-Wires-For-Arduino-HYDG-/182056607089?hash=item2a636b5d71)
 
-[PCB Grande](http://www.ebay.es/itm/MB-102-sin-soldadura-MB102-Protoboard-830-Tie-Point-PCB-protoboard-para-Arduino-/191615075548?hash=item2c9d2604dc)
+[Protoboard Grande](http://www.ebay.es/itm/MB-102-sin-soldadura-MB102-Protoboard-830-Tie-Point-PCB-protoboard-para-Arduino-/191615075548?hash=item2c9d2604dc)
 
 [ArduChino UNO](http://www.ebay.es/itm/ATmega328P-CH340G-UNO-R3-Version-Board-Free-USB-Cable-For-Arduino-OT8G-/351382289123?hash=item51d0043ae3)
 
