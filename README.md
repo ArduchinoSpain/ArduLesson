@@ -15,6 +15,8 @@ Aun así, si estas aprendiendo, no te cortes en absoluto en colaborar y aportar,
 
 Happy Coding =)
 
+## 136 Tutoriales para cacharrear!
+[Tutoriales](http://www.prometec.net/curso-kit-inicio/)
 ##Materiales para empesá
 [200 Resistencias](http://www.ebay.es/itm/KIT-PERSONALIZADO-200-Resistencias-5-1-4w-0-25w-carbon-film-Resistor-kit-/261884095543?hash=item3cf9822c37)
 
